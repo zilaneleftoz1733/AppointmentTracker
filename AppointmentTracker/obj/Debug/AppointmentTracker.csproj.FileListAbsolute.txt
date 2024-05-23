@@ -1,0 +1,16 @@
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\bin\Debug\AppointmentTracker.exe.config
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\bin\Debug\AppointmentTracker.exe
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\bin\Debug\AppointmentTracker.pdb
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\obj\Debug\AppointmentTracker.csproj.AssemblyReference.cache
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\obj\Debug\AppointmentTracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\obj\Debug\AppointmentTracker.Properties.Resources.resources
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\obj\Debug\AppointmentTracker.csproj.GenerateResource.cache
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\obj\Debug\AppointmentTracker.csproj.CoreCompileInputs.cache
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\obj\Debug\AppointmentTracker.exe
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\obj\Debug\AppointmentTracker.pdb
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\obj\Debug\AppointmentTracker.DoctorDefinitionForm.resources
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\obj\Debug\AppointmentTracker.AppointmentCreationForm.resources
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\obj\Debug\AppointmentTracker.EditAppointmentForm.resources
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\obj\Debug\AppointmentTracker.AppointmentListingForm.resources
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\obj\Debug\AppointmentTracker.PatientDefinitionForm.resources
+C:\Users\lzila\source\repos\AppointmentTracker\AppointmentTracker\obj\Debug\AppointmentTracker.AppointmentSystem.resources
